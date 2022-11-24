@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\НОМЕ\Pen\bin\Debug\net6.0\Pen.exe
+C:\Users\HOME\Desktop\НОМЕ\Pen\bin\Debug\net6.0\Pen.deps.json
+C:\Users\HOME\Desktop\НОМЕ\Pen\bin\Debug\net6.0\Pen.runtimeconfig.json
+C:\Users\HOME\Desktop\НОМЕ\Pen\bin\Debug\net6.0\Pen.dll
+C:\Users\HOME\Desktop\НОМЕ\Pen\bin\Debug\net6.0\Pen.pdb
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.AssemblyInfo.cs
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.dll
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\refint\Pen.dll
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.pdb
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\Pen.genruntimeconfig.cache
+C:\Users\HOME\Desktop\НОМЕ\Pen\obj\Debug\net6.0\ref\Pen.dll
